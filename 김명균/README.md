@@ -13,3 +13,6 @@
 
 # 2주차 정리
 - https://wiry-boron-6b7.notion.site/73bb61605f3b4ee29fc3c6dee4ce9728
+
+# 3주차(객체지향의 사실과 오해)
+- https://wiry-boron-6b7.notion.site/f612849369c84c1bbef23df1aed0de70
